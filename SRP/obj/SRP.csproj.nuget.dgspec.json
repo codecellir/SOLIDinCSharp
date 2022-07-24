@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sohrab\\Desktop\\SOLIDInCSharp\\SOILDInCSharp\\SRP\\SRP.csproj": {}
+    "E:\\CodeCell\\videos\\SOLID\\SOLIDInCSharp\\SOILDInCSharp\\SRP\\SRP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sohrab\\Desktop\\SOLIDInCSharp\\SOILDInCSharp\\SRP\\SRP.csproj": {
+    "E:\\CodeCell\\videos\\SOLID\\SOLIDInCSharp\\SOILDInCSharp\\SRP\\SRP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sohrab\\Desktop\\SOLIDInCSharp\\SOILDInCSharp\\SRP\\SRP.csproj",
+        "projectUniqueName": "E:\\CodeCell\\videos\\SOLID\\SOLIDInCSharp\\SOILDInCSharp\\SRP\\SRP.csproj",
         "projectName": "SRP",
-        "projectPath": "C:\\Users\\Sohrab\\Desktop\\SOLIDInCSharp\\SOILDInCSharp\\SRP\\SRP.csproj",
+        "projectPath": "E:\\CodeCell\\videos\\SOLID\\SOLIDInCSharp\\SOILDInCSharp\\SRP\\SRP.csproj",
         "packagesPath": "C:\\Users\\Sohrab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sohrab\\Desktop\\SOLIDInCSharp\\SOILDInCSharp\\SRP\\obj\\",
+        "outputPath": "E:\\CodeCell\\videos\\SOLID\\SOLIDInCSharp\\SOILDInCSharp\\SRP\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
