@@ -38,7 +38,8 @@
         "C:\\Program Files\\dotnet\\library-packs": {},
         "E:\\Local-Nuget": {},
         "E:\\Nikan-Nuget": {},
-        "https://api.nuget.org/v3/index.json": {}
+        "https://api.nuget.org/v3/index.json": {},
+        "https://devops.nikansoft.com/DefaultCollection/NikanDerakService/_packaging/SharedNikanNuget/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net6.0": {
