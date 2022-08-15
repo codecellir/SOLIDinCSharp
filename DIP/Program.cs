@@ -12,6 +12,7 @@ using DIP.WithSOLID;
 //Console.WriteLine(employee.GetSalary());
 
 
+//EmployeeWithSOLID employeeWithSOLID = new EmployeeWithSOLID(new SalaryCalculator_2022());
 EmployeeWithSOLID employeeWithSOLID = new EmployeeWithSOLID(new SalaryCalculator_2023());
 
 employeeWithSOLID.Name = "CodeCell";
